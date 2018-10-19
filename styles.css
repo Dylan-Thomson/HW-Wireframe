@@ -22,6 +22,10 @@ h1, p {
     background: #ebebeb;
 }
 
+nav {
+    margin-bottom: 0px;
+}
+
 article {
     color: #ebebeb;
     background: #777;
