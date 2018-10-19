@@ -38,9 +38,10 @@ section {
 }
 
 aside {
-    width: 425px;
+    width: 430px;
     float: right;
     height: 313.078px;
+    margin-left: 0;
 }
 
 footer {
