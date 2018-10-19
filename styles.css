@@ -12,8 +12,8 @@ body {
 
 header, nav, section, aside, footer {
     background: #ebebeb;
-    margin: 5px;
-    padding: 5px;
+    margin: 15px;
+    padding: 10px;
     color: #777;
 }
 
@@ -37,10 +37,11 @@ section {
     float: left;
 }
 
+/* TODO figure out a better way to match the aside's height to the section */
 aside {
-    width: 430px;
+    width: 380px;
     float: right;
-    height: 313.078px;
+    height: 324px;
     margin-left: 0;
 }
 
