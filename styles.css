@@ -21,7 +21,7 @@ h1, p {
     color: #777;
     background: #ebebeb;
 }
-
+/* Clear margin */
 nav {
     margin-bottom: 0px;
 }
